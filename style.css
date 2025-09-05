@@ -1,13 +1,13 @@
 body {
-    background-color: #f0f8ff;
+    background-color: #f9dbbd;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/* Header */
+
 header {
-    background-color: #4682b4;
+    background-color: #450920;
     color: white;
     padding: 20px;
     text-align: center;
@@ -22,7 +22,7 @@ header {
     font-size: 1.2em;
 }
 
-/* Main-innhold */
+
 main {
     padding: 20px;
 }
@@ -35,16 +35,16 @@ p {
     line-height: 1.6;
 }
 
-/* Bilde */
+
 .main-image {
     max-width: 100%;
     height: auto;
     margin-top: 10px;
 }
 
-/* Footer */
+
 footer {
-    background-color: #333;
+    background-color: #a53860;
     color: white;
     text-align: center;
     padding: 15px;
